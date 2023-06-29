@@ -2,7 +2,7 @@
 <img width="468" alt="image" src="https://github.com/WonderBoi99/clothingStore/assets/61436662/7a86d838-3e7e-474d-87ce-45c7fc6e7a7b">
 
 ## Short Description:
-Teamed up with a group of three individuals to construct a clothing boutique. Developed a comprehensive application that incorporated Flask, a web framework, for the backend, while employing HTML, CSS, and Bootstrap for the frontend. In addition, leveraged SQLite database and SQLAlchemy library to effectively manage and store the clothing store's data. All these elements were seamlessly interconnected through the utilization of Python.
+In collaboration with a team of three, we successfully developed a clothing store website. The project involved designing the SQL database using an enhanced entity-relationship diagram and relational model. For the backend development, we utilized Python and the Flask framework, leveraging SQLite database and the SQLAlchemy library for efficient data management and storage. On the frontend side, we built the website using HTML5, CSS3, JavaScript, and the Bootstrap framework, ensuring a responsive and visually appealing user interface.
 
 ## Functionalities:
 There are two types of users.
